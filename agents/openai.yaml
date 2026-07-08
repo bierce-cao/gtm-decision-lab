@@ -1,0 +1,4 @@
+interface:
+  display_name: "GTM Decision Lab"
+  short_description: "Early-stage GTM decision brief"
+  default_prompt: "Use $gtm-decision-lab to turn my product notes into a defensible GTM decision brief."
