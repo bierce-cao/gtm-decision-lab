@@ -7,8 +7,10 @@ Use this template when the user's request is too sparse or scattered. The user d
 **Product name:**  
 **One-sentence description:**  
 **Core workflow or use case:**  
+**What result does the user receive?**  
 **Who uses it:**  
 **Who pays for it:**  
+**If you could not mention AI, what would the customer still value?**  
 
 ## 2. Current Stage
 
@@ -23,6 +25,7 @@ Choose one:
 
 **Current traction:**  
 **Current revenue, if any:**  
+**Current repeated usage signal, if any:**  
 
 ## 3. Candidate Segments
 
@@ -41,6 +44,7 @@ Add what exists. Leave blank if unavailable.
 **Waitlist or signup reasons:**  
 **Usage data:**  
 **Revenue or willingness-to-pay signals:**  
+**Trust, data-sharing, or procurement signals:**  
 **Support tickets or feature requests:**  
 **Community or social signals:**  
 **Competitor observations:**  
@@ -54,15 +58,24 @@ Add what exists. Leave blank if unavailable.
 **Geography/language:**  
 **Trust, security, compliance, or procurement constraints:**  
 
-## 6. Decision Needed
+## 6. Builder Reality
+
+**Why are you positioned to serve this market?**  
+**How can you reach target users this week?**  
+**What direct customer contact do you already have?**  
+**What are you assuming because you can build it with AI?**  
+
+## 7. Decision Needed
 
 Choose one or more:
 
+- Check whether demand is real enough to continue
 - Choose first beachhead segment
 - Audit a GTM idea
 - Select GTM motion
 - Pressure-test positioning
 - Design validation experiments
-- Build a full GTM decision brief
+- Build a full market reality and GTM decision brief
+- Decide Build / Validate / Hold
 
 **What decision will this brief support?**  

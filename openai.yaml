@@ -1,0 +1,4 @@
+interface:
+  display_name: "GTM Decision Lab"
+  short_description: "Market demand reality check for early GTM decisions"
+  default_prompt: "Use $gtm-decision-lab to check whether my target customer, market demand, adoption path, and GTM decision are real enough to build, validate, or hold."
