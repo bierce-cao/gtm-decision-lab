@@ -110,3 +110,20 @@ gtm-decision-lab/
   assets/
     gtm-decision-brief-template.md
     experiment-plan-template.md
+```
+
+## Installation
+
+Download or clone this repository, then place the `gtm-decision-lab` folder into your local skills directory.
+
+Then invoke it with:
+
+```text
+Use $gtm-decision-lab to analyze this product and create a GTM decision brief.
+```
+
+Example input:
+
+```text
+We are building an AI tool for small B2B SaaS teams that summarizes sales calls and identifies churn risks. We have 20 waitlist signups, 3 user interviews, and no revenue yet. Help us choose a beachhead segment and validation plan.
+```
